@@ -4,7 +4,7 @@ go 1.22.2
 
 require (
 	github.com/NVIDIA/go-gpuallocator v0.5.0
-	github.com/NVIDIA/go-nvlib v0.6.1
+	github.com/NVIDIA/go-nvlib v0.7.0
 	github.com/NVIDIA/go-nvml v0.12.4-0
 	github.com/NVIDIA/nvidia-container-toolkit v1.16.2
 	github.com/fsnotify/fsnotify v1.7.0
@@ -54,7 +54,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/onsi/gomega v1.33.1 // indirect
-	github.com/opencontainers/runc v1.1.13 // indirect
+	github.com/opencontainers/runc v1.1.14 // indirect
 	github.com/opencontainers/runtime-spec v1.2.0 // indirect
 	github.com/opencontainers/runtime-tools v0.9.1-0.20221107090550-2e043c6bd626 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
